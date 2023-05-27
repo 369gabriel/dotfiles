@@ -1,0 +1,24 @@
+[WARN  qui 13 abr 2023 19:41:16] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/setup/init.lua:289: Cannot close because an unnamed buffer is modified. Please save or discard this file.
+[ERROR qui 13 abr 2023 20:14:11] ...cal/share/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils.lua:601: Error opening file: Vim(buffer):E325: ATTENTION
+[INFO  qui 13 abr 2023 21:49:40] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:232: Toggling hidden files: true
+[INFO  qui 13 abr 2023 21:49:41] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:232: Toggling hidden files: false
+[WARN  qui 13 abr 2023 21:50:11] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:566: Could not rename the files
+[WARN  qui 13 abr 2023 21:50:16] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:566: Could not rename the files
+[INFO  qui 13 abr 2023 21:55:08] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:232: Toggling hidden files: true
+[ERROR qui 13 abr 2023 23:05:09] ...re/nvim/lazy/neo-tree.nvim/lua/neo-tree/events/queue.lua:83: Error in event handler for event vim_win_enter[neo-tree-win-enter]: ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/setup/init.lua:300: Vim(quit):E37: No write since last change
+[WARN  seg 08 mai 2023 00:10:30] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  l :  nil
+[WARN  seg 08 mai 2023 00:10:30] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  h :  nil
+[WARN  seg 08 mai 2023 00:10:30] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  O :  nil
+[WARN  seg 08 mai 2023 00:10:30] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  Y :  nil
+[WARN  seg 08 mai 2023 22:35:59] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  l :  nil
+[WARN  seg 08 mai 2023 22:35:59] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  Y :  nil
+[WARN  seg 08 mai 2023 22:35:59] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  O :  nil
+[WARN  seg 08 mai 2023 22:35:59] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  h :  nil
+[WARN  seg 08 mai 2023 22:36:25] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  h :  nil
+[WARN  seg 08 mai 2023 22:36:25] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  O :  nil
+[WARN  seg 08 mai 2023 22:36:25] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  l :  nil
+[WARN  seg 08 mai 2023 22:36:25] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  Y :  nil
+[WARN  seg 08 mai 2023 22:36:27] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  l :  nil
+[WARN  seg 08 mai 2023 22:36:27] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  Y :  nil
+[WARN  seg 08 mai 2023 22:36:27] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  O :  nil
+[WARN  seg 08 mai 2023 22:36:27] ...are/nvim/lazy/neo-tree.nvim/lua/neo-tree/ui/renderer.lua:798: Invalid mapping for  h :  nil
