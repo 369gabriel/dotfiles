@@ -1,7 +1,7 @@
 {
-	"color_scheme": "auto",
-	"font_size": 9,
-	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"font_size": 8,
+	"theme": "Default Dark.sublime-theme",
 	"dark_color_scheme": "Mariana.sublime-color-scheme",
 	"light_color_scheme": "Celeste.sublime-color-scheme",
 }

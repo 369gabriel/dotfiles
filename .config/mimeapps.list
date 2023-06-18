@@ -1,0 +1,8 @@
+[Added Associations]
+text/x-matlab=sublime_text.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+image/jpeg=imv.desktop;
+
+[Default Applications]
+x-scheme-handler/ftb=ftb-app.desktop
+x-scheme-handler/notion=notion-app.desktop

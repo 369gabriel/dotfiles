@@ -1,0 +1,8 @@
+2023/06/03-18:49:04.033 81dcd Reusing MANIFEST /home/gyaf/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-18:49:04.033 81dcd Recovering log #4
+2023/06/03-18:49:04.034 81dcd Reusing old log /home/gyaf/.config/notion-app/Partitions/notion/IndexedDB/notion_www.notion.so_0.indexeddb.leveldb/000004.log 
+2023/06/03-18:49:06.881 7ed5b Level-0 table #8: started
+2023/06/03-18:49:06.881 7ed5b Level-0 table #8: 0 bytes OK
+2023/06/03-18:49:06.942 7ed5b Delete type=0 #4
+2023/06/03-18:49:06.943 7ed5b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/03-18:49:06.943 7ed5b Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,37 @@
+2023/06/03-18:37:53.444 7edef Reusing MANIFEST /home/gyaf/.config/notion-app/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2023/06/03-18:38:56.719 7ed5b Level-0 table #5: started
+2023/06/03-18:38:56.772 7ed5b Level-0 table #5: 167924 bytes OK
+2023/06/03-18:38:56.823 7ed5b Delete type=0 #3
+2023/06/03-18:49:08.109 7ed5b Level-0 table #7: started
+2023/06/03-18:49:08.427 7ed5b Level-0 table #7: 14804 bytes OK
+2023/06/03-18:49:08.491 7ed5b Delete type=0 #4
+2023/06/03-18:49:18.920 7ed5c Level-0 table #9: started
+2023/06/03-18:49:19.290 7ed5c Level-0 table #9: 331317 bytes OK
+2023/06/03-18:49:19.921 7ed5c Delete type=0 #6
+2023/06/03-18:49:28.499 7ed5c Level-0 table #11: started
+2023/06/03-18:49:28.550 7ed5c Level-0 table #11: 398617 bytes OK
+2023/06/03-18:49:28.601 7ed5c Delete type=0 #8
+2023/06/03-18:49:42.026 81dd1 Level-0 table #13: started
+2023/06/03-18:49:42.061 81dd1 Level-0 table #13: 10117 bytes OK
+2023/06/03-18:49:42.113 81dd1 Delete type=0 #10
+2023/06/03-18:54:56.718 81dd1 Level-0 table #15: started
+2023/06/03-18:54:57.257 81dd1 Level-0 table #15: 13698 bytes OK
+2023/06/03-18:54:58.002 81dd1 Delete type=0 #12
+2023/06/03-18:54:58.002 82976 Compacting 4@0 + 1@1 files
+2023/06/03-18:54:58.310 82976 Generated table #16@0: 39 keys, 416767 bytes
+2023/06/03-18:54:58.310 82976 Compacted 4@0 + 1@1 files => 416767 bytes
+2023/06/03-18:54:58.845 82976 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/03-18:54:58.846 82976 Delete type=2 #13
+2023/06/03-18:54:58.846 82976 Delete type=2 #15
+2023/06/03-18:54:58.846 82976 Delete type=2 #11
+2023/06/03-18:54:58.846 82976 Delete type=2 #9
+2023/06/03-18:54:58.846 82976 Delete type=2 #7
+2023/06/03-19:00:56.718 83a2f Level-0 table #18: started
+2023/06/03-19:00:57.376 83a2f Level-0 table #18: 12354 bytes OK
+2023/06/03-19:00:57.900 83a2f Delete type=0 #14
+2023/06/03-19:05:02.591 82976 Level-0 table #20: started
+2023/06/03-19:05:02.634 82976 Level-0 table #20: 10482 bytes OK
+2023/06/03-19:05:02.686 82976 Delete type=0 #17
+2023/06/03-19:13:57.640 87f20 Level-0 table #22: started
+2023/06/03-19:13:57.677 87f20 Level-0 table #22: 9233 bytes OK
+2023/06/03-19:13:57.762 87f20 Delete type=0 #19
