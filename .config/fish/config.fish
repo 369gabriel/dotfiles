@@ -1,6 +1,9 @@
 if status is-interactive
-    alias JBL 'bluetoothctl connect 70:99:1C:A6:9E:BA'
-    alias fone 'bluetoothctl connect B4:F3:18:32:1C:00'
+    alias jbl 'bluetoothctl connect 70:99:1C:A6:9E:BA'
+    alias fone 'bluetoothctl connect B7:5B:24:E3:18:D7'
+    alias djbl 'bluetoothctl disconnect 70:99:1C:A6:9E:BA'
+    alias dfone 'bluetoothctl disconnect B7:5B:24:E3:18:D7'
+
     alias files 'ranger'
     alias ..="cd .." 
     alias ...="cd ../.." 
@@ -14,6 +17,8 @@ if status is-interactive
     starship init fish | source
 
 set -U fish_greeting
+set -x XDG_CONFIG_HOME $HOME/.config
+
 
 end
 fish_add_path /home/gabriel/.spicetify
