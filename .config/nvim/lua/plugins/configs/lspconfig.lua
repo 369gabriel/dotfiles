@@ -40,6 +40,18 @@ M.capabilities.textDocument.completion.completionItem = {
   },
 }
 
+
+--require("lspconfig").clangd.setup {
+--    cmd = { "clangd" },
+--    filetypes = { "c", "cpp", "objc", "objcpp" },
+--    root_dir = require("lspconfig").util.root_pattern("compile_commands.json", "compile_flags.txt", ".git"),
+--    settings = {
+--        clangd = {
+--            fallbackFlags = { "-std=c11" },
+--        },
+--    },
+--}
+
 require("lspconfig").lua_ls.setup {
   on_init = M.on_init,
   on_attach = M.on_attach,
