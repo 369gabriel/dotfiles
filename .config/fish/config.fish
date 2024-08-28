@@ -18,7 +18,10 @@ if status is-interactive
 
 set -U fish_greeting
 set -x XDG_CONFIG_HOME $HOME/.config
-
+set EDITOR nvim
 
 end
 fish_add_path /home/gabriel/.spicetify
+if test -z "$DISPLAY" -a (tty) = "/dev/tty1"
+    startx
+end
