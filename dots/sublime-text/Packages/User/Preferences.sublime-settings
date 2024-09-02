@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Cyanide/Cyanide - Love.tmTheme",
+	"font_size": 9,
+	"theme": "Cyanide - Purple.sublime-theme",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Celeste.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
