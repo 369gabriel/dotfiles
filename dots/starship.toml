@@ -5,7 +5,7 @@ command_timeout = 5
 
 [character]
 # Note the use of Catppuccin color 'maroon'
-success_symbol = "[[🥀](red) ❯](maroon)"
+success_symbol = "[[👻](red) ❯](maroon)"
 error_symbol = "[❯](red)"
 vicmd_symbol = "[❮](green)"
 
