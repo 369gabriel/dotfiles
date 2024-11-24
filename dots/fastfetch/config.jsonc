@@ -6,9 +6,9 @@
   "logo": { "source": "~/.config/fastfetch/arch", "color": { "1": "red" },
     "type": "file",
     "padding": {
-      "top": 5,
-      "right": 15,
-      "left": 5 
+      "top": 0,
+      "right": 0,
+      "left": 0 
     }
   },
   "display": {

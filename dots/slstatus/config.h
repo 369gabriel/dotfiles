@@ -65,8 +65,8 @@ static const char unknown_str[] = "n/a";
  */
 static const struct arg args[] = {
 	/* function format          argument */
-  { datetime, " %s | ",        "%d/%m" },              // Data no formato dia/mês
-  { datetime, "%s | ",        "%H:%M" },              // Hora:minuto
-  { battery_perc, "%s%%",     "BAT0" },               // Porcentagem da bateria (substitua "BAT0" pelo nome correto da sua bateria)
+  { datetime, "  %s  ",        "%d/%m" },              // Data no formato dia/mês
+  { datetime, " %s  ",        "%H:%M" },              // Hora:minuto
+  { battery_perc, " %s%% ",     "BAT0" },               //  sua bateria)
 
 };
