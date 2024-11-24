@@ -2,7 +2,7 @@
 setxkbmap -layout br&
 nitrogen --restore &
 exec dwm&
-picom&
+picom --config ~/.config/picom/picom.conf&
 slstatus&
 xrdb .Xresources&
 
