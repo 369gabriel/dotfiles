@@ -65,6 +65,7 @@ static const char unknown_str[] = "n/a";
  */
 static const struct arg args[] = {
 	/* function format          argument */
+  { run_command,   " %s ",           "pactl get-sink-volume @DEFAULT_SINK@ | awk '{print $5}'"},
   { datetime, "  %s  ",        "%d/%m" },              // Data no formato dia/mês
   { datetime, " %s  ",        "%H:%M" },              // Hora:minuto
   { battery_perc, " %s%% ",     "BAT0" },               //  sua bateria)
