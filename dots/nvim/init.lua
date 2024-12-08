@@ -17,3 +17,6 @@ end
 
 require "lazy_setup"
 require "polish"
+
+vim.opt.wrap = true
+vim.opt.linebreak = true
