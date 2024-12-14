@@ -24,7 +24,7 @@ set -x XDG_CONFIG_HOME $HOME/.config
 export EDITOR=nvim
 
 end
-fish_add_path /home/gabriel/.spicetify
+fish_add_path ~/.spicetify
 if test -z "$DISPLAY" -a (tty) = "/dev/tty1"
     startx
 end
