@@ -1,6 +1,7 @@
-
 setxkbmap -layout br&
+numlockx &
 nitrogen --restore &
+dunst&
 exec dwm&
 picom --config ~/.config/picom/picom.conf&
 slstatus&
