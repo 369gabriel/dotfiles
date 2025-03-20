@@ -1,6 +1,6 @@
 [general]
 mode = normal
-sensitivity = 450
+sensitivity = 75 
 framerate = 60
 autosens = 1
 lower_cutoff_freq = 50
@@ -13,10 +13,10 @@ channels = stereo
 [color]
 gradient = 1
 gradient_count = 4
-gradient_color_1 = '#C36161'
-gradient_color_2 = '#C34444'
-gradient_color_3 = '#A51515'
-gradient_color_4 = '#AB0303'
+gradient_color_1 = '#E0E0E0'  # Cinza muito claro
+gradient_color_2 = '#B3B3B3'  # Cinza claro
+gradient_color_3 = '#808080'  # Cinza médio
+gradient_color_4 = '#4D4D4D'  # Cinza escuro
 
 [smoothing]
 integral = 90

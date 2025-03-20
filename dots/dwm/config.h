@@ -80,12 +80,12 @@ static const char *brightdown[] = {"brightnessctl", "set", "10%-", NULL};
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_cyan, "-sf", col_gray1, NULL };
 static const char *termcmd[]  = { "kitty", NULL };
-static const char *firefox[] = {"firefox", NULL};
+static const char *browser[] = {"zen-browser", NULL};
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_r,      spawn,          {.v = dmenucmd } },
-	{ MODKEY,                       XK_y,      spawn,          {.v = firefox } },
+	{ MODKEY,                       XK_y,      spawn,          {.v = browser } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
   /* personal scripts */
   { MODKEY,                       XK_s,      spawn,          {.v = screenshotclip} },
