@@ -5,6 +5,8 @@ if status is-interactive
     alias fone 'bluetoothctl connect 41:42:27:90:00:00'
     alias djbl 'bluetoothctl disconnect 70:99:1C:A6:9E:BA'
     alias dfone 'bluetoothctl disconnect 41:42:27:90:00:00'
+    alias grayon 'vibrant-cli eDP-1 0.0'
+    alias grayoff 'vibrant-cli eDP-1 1.0'
     
     alias files 'ranger'
     alias ..="cd .." 
